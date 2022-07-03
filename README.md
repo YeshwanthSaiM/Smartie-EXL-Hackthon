@@ -17,10 +17,13 @@ Admin can even select from list of service providers
     Rasa bot builder
     Kore AI bot builder
     Own customer NLP engine
+    ![Admin Smartie](https://user-images.githubusercontent.com/36561348/177045016-fe2ccdea-18c7-462c-8c6c-8911e03ce949.png)
+
 
 ## User
 User can interact with any of the built bots. 
 User can give his inputs in for of Text or Voice. Bot responses accordingly
+![User Smartie](https://user-images.githubusercontent.com/36561348/177045025-ff2f99ef-680a-4707-b9bb-0b3a8a993c4b.png)
 
 ## Recommendation engine
 A recommendation engine is built and continously update for recommending best products for the user
