@@ -1,6 +1,16 @@
 # Smartie
 ## A Complete solution of Intelligent Bot
 
+
+#Project Objective 
+
+
+Probelm Statement Identified as To Design and Develop a BOT that takes minimum information and instructions to recommend products to a user. The BOT can be configured by carrying out simple tasks such as uploading a set of questions and answers at a specific URL, which could be an API from the BOT admin. The BOT analyzes the data, makes third-party API calls, and makes product recommendations to the user. Further, the BOT analyses user response and starts recommending other products, like upselling and cross-selling.
+
+The BOT eventually becomes the foundation for a better user experience driven by AI and Machine Learning.
+
+Source Code of the  BOT  provides valuable information to a user through Q&A, supported by Natural Language Processing (NLP) making it a great training tool to onboard new users or new agents? Built with a two-way integration with the application, the BOT needs to be trained to be specific to their customers and their insurance policy products.
+
 ## Admin
 Admin has the previlage to configure and build a new bot. 
 We provide configuration layer i.e UI for admin, where a selection can be made with other 
