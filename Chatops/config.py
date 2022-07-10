@@ -1,4 +1,4 @@
-URL = ''  # exlservice
+URL = ''  # exlservive
 BOT_TOKEN = ''
 BOT_NAME = ''
 SCHEME = ''
