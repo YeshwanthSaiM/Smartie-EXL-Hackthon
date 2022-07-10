@@ -3,7 +3,7 @@ ChatOps Bot
 
 ------
 
-![Chatops intro](./imgs/intro.png)
+
 
 ## 1. Features
 
@@ -23,17 +23,18 @@ ChatOps Bot
 
 #### 2.1 Prerequisite
 
-1. Mattermost (https://mattermost.com/download/)
-2. Mysql and config with Mattermost
+
+1. server
+2. Mysql and config with Server
 3. AWS Account
 4. GitLab Account
 5. Google Account
 6. Codeship Account
 7. Python3.7
 
-#### 2.2 Mattermost Config
+#### 2.2 Server Config
 
-1. Create a account on Mattermost
+1. Create a account 
 2. Go to system console and click on bot accounts then click Integrations > Bot Accounts link after click on add bot account
 3. create a new bot and check post:all and post:channels Enabled and save the bot token
 4. Put Mattermost server url, bot-username and bot-token in config.py file
