@@ -70,7 +70,7 @@ ChatOps Bot
 
 ## 3. Get up and running
 
-1. Start Mattermost server
+1. Start  server
 
 2. Create & activate virtual environment
 
