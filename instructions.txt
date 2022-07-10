@@ -1,0 +1,15 @@
+The following instructions help in starting up the project. 
+
+*Please go through the git repo for latest code. 
+
+https://github.com/Apollo9999/EXL-BOT
+
+1. Smartie - ARIA Classroom Bot
+
+Step 1: Navigate to Smartie\Bot - ARIA classrooms
+
+Step 2: Open command prompt and type following commands
+	1. npm i
+	2. ng serve --open
+
+

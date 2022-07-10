@@ -1,0 +1,93 @@
+{
+    "spots": [
+       
+        {
+            "id": "p0",
+            "nav": [
+              
+                {
+                    "spotProp": "linkto:#p1; spotgroup:p1",
+                    "position": "-7.73 1.49 0.387",
+                    "rotation": "0 0 0",
+                    "inclination": "0 80 0"
+                }
+            ]
+        
+        },
+        {
+            "id": "p1",
+            "scale": "0 0 0",
+            "nav": [
+              
+                {
+                    "spotProp": "linkto:#p0; spotgroup:p0",
+                    "position": "12 1.6 -3.37",
+                    "rotation": "0 0 0",
+                    "inclination":"0 90 0"
+                },
+                {
+                    "spotProp": "linkto:#p2; spotgroup:p2",
+                    "position": "12 1.6 5",
+                    "rotation": "0 0 0",
+                    "inclination":"0 -90 0"
+                }
+            ]
+        
+        },
+        {
+            "id": "p2",
+            "scale": "0 0 0",
+            "nav": [
+              
+                {
+                    "spotProp": "linkto:#p3; spotgroup:p3",
+                    "position": "-8.513 2.1 0",
+                    "rotation": "0 180 0",
+                    "inclination": "0 -90 0"
+                },
+                {
+                    "spotProp": "linkto:#p1; spotgroup:p1",
+                    "position": "-3.1 0 -0.257",
+                    "rotation": "0 115 0",
+                    "inclination":"90 -90 0"
+                }
+            ]
+        
+        },
+        {
+            "id": "p3",
+            "scale": "0 0 0",
+            "nav": [
+                
+            
+                {
+                    "spotProp": "linkto:#p2; spotgroup:p2",
+                    "position": "6.023 1.6 1.13",
+                    "rotation": "0 115 0",
+                    "inclination":"0 -120 0"
+                }
+            ]
+        
+        }  
+
+    ],
+    "scenes": [
+        {
+            "id": "p0",
+            "src": "assets/classrooms/p0.jpg"
+        },
+        {
+            "id": "p1",
+            "src": "assets/classrooms/p1.jpg"
+        },
+        {
+            "id": "p2",
+            "src": "assets/classrooms/p2.jpg"
+        },
+        {
+            "id": "p3",
+            "src": "assets/classrooms/p3.jpg"
+        }        
+    ]
+}
+            
