@@ -1,4 +1,4 @@
-URL = ''  # Mattermost Url
+URL = ''  # exlservice
 BOT_TOKEN = ''
 BOT_NAME = ''
 SCHEME = ''
