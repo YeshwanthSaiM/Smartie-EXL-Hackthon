@@ -1,9 +1,7 @@
 # Smartie
 ## A Complete solution of Intelligent Bot
 
-
-#Project Objective 
-
+For Demo : https://www.youtube.com/watch?v=8R6B__42bG0
 
 Probelm Statement Identified as To Design and Develop a BOT that takes minimum information and instructions to recommend products to a user. The BOT can be configured by carrying out simple tasks such as uploading a set of questions and answers at a specific URL, which could be an API from the BOT admin. The BOT analyzes the data, makes third-party API calls, and makes product recommendations to the user. Further, the BOT analyses user response and starts recommending other products, like upselling and cross-selling.
 
