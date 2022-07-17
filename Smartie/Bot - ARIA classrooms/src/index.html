@@ -17,11 +17,18 @@
 
 <body>
   <app-root></app-root>
-  <link rel='stylesheet' href='https://bots.kore.ai/webclient/UI/dist/kore-ai-sdk.min.css'>
+
+  <!-- Kore AI Bot -->
+  <!-- <link rel='stylesheet' href='https://bots.kore.ai/webclient/UI/dist/kore-ai-sdk.min.css'>
   </link>
   <script
     src='https://bots.kore.ai/api/platform/websdkjs/437536528d0e44bda4203087b99ce85265b5fc39a491482ca41abfd75cd4b370st73'></script>
-  <script>KoreSDK.show(KoreSDK.chatConfig);</script>
+  <script>KoreSDK.show(KoreSDK.chatConfig);</script> -->
+
+  <!-- Google DialogFlow bot -->
+  <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+  <df-messenger intent="WELCOME" chat-title="ARIA-Classrooms" agent-id="b57235e0-e1a9-4a27-8a83-aca0d7cffa9a"
+    language-code="en"></df-messenger>
 </body>
 
 </html>

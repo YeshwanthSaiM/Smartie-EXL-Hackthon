@@ -1,0 +1,40 @@
+[
+  {
+    "id": "9b699377-7599-4661-ad75-4bb57e384f72",
+    "data": [
+      {
+        "text": "get some information from web about ",
+        "userDefined": false
+      },
+      {
+        "text": "kore",
+        "meta": "@sys.any",
+        "alias": "topic",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "af80c5e3-394c-45a7-92f9-13d708bb20e1",
+    "data": [
+      {
+        "text": "more information about ",
+        "userDefined": false
+      },
+      {
+        "text": "linkedin",
+        "meta": "@sys.any",
+        "alias": "topic",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

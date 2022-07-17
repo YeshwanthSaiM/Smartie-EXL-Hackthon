@@ -1,0 +1,41 @@
+[
+  {
+    "id": "ca2932f7-4e23-473a-ab0c-ce48a3f6602c",
+    "data": [
+      {
+        "text": "weather information",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7252c4a6-88e9-4020-a6b4-ad948712707e",
+    "data": [
+      {
+        "text": "Tell me about weather",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f3561b8b-9b78-41c5-bd8d-9dc1cc8660df",
+    "data": [
+      {
+        "text": "Weather",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

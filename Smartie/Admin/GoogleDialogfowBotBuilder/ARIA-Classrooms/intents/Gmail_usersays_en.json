@@ -1,0 +1,41 @@
+[
+  {
+    "id": "9736d29d-9cf4-445d-a9e9-40c5aec01bb6",
+    "data": [
+      {
+        "text": "gmail information",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4ef793b7-9278-40dc-9dd7-b8e98f1a88fd",
+    "data": [
+      {
+        "text": "tell me about gmail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0c1ab379-7fc1-4452-88c5-a4f16e648c7b",
+    "data": [
+      {
+        "text": "Gmail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

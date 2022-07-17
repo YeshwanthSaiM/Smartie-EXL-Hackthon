@@ -1,0 +1,41 @@
+[
+  {
+    "id": "cfe3f41b-d531-48af-8e72-e9a638d6f949",
+    "data": [
+      {
+        "text": "walmart information",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d7c073a1-0a65-4dcd-b82a-175a1fe8d202",
+    "data": [
+      {
+        "text": "tell me about walmart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "049c1d51-987f-4720-8f54-b5ec0c9fa801",
+    "data": [
+      {
+        "text": "Walmart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

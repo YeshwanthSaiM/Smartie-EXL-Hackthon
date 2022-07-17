@@ -1,0 +1,41 @@
+[
+  {
+    "id": "82cab475-5e26-48b4-a430-0c0db36bd032",
+    "data": [
+      {
+        "text": "amazon information",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8444961e-5ede-4400-8608-bdd978e0fa0b",
+    "data": [
+      {
+        "text": "tell me about amazon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dda57af8-029c-4ef3-82b6-3f3202448558",
+    "data": [
+      {
+        "text": "Amazon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

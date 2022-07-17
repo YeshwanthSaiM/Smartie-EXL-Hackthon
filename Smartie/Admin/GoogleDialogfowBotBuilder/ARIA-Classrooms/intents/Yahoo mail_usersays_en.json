@@ -1,0 +1,41 @@
+[
+  {
+    "id": "0ef60dcb-db96-4a81-bf37-cd79cb7c9e15",
+    "data": [
+      {
+        "text": "yahoo mail information",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1828d360-7612-4a4f-b193-c9afe3167078",
+    "data": [
+      {
+        "text": "tell me about yahoo mail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ca3c193-ef3b-462c-99c1-0edc798937a1",
+    "data": [
+      {
+        "text": "yahoo mail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

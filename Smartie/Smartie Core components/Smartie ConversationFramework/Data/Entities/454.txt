@@ -1,0 +1,208 @@
+what	WP	O
+is	VBZ	O
+the	DT	O
+GST	NN	B-keyword
+no	DT	O
+in	IN	O
+Delhi	NN	B-keyword
+
+what	WP	O
+is	VBZ	O
+the	DT	O
+GST	NN	B-keyword
+no	DT	O
+in	IN	O
+Kerala	NNP	B-keyword
+
+what	WP	O
+is	VBZ	O
+the	DT	O
+GST	NN	B-keyword
+no	DT	O
+in	IN	O
+Tamil	NN	B-keyword
+Nadu	NN	I-keyword
+
+what	WP	O
+is	VBZ	O
+the	DT	O
+GST	NN	B-keyword
+no	DT	O
+in	IN	O
+Karnataka	NNP	B-keyword
+
+what	WP	O
+is	VBZ	O
+the	DT	O
+GST	NN	B-keyword
+no	DT	O
+in	IN	O
+Telangana	NN	B-keyword
+
+what	WP	O
+is	VBZ	O
+the	DT	O
+GST	NN	B-keyword
+no	DT	O
+in	IN	O
+Andhra	NN	B-keyword
+Pradesh	NN	I-keyword
+
+what	WP	O
+is	VBZ	O
+the	DT	O
+GST	NN	B-keyword
+no	DT	O
+in	IN	O
+GOA	NN	B-keyword
+
+what	WP	O
+is	VBZ	O
+the	DT	O
+GST	NN	B-keyword
+no	DT	O
+in	IN	O
+Uttarakhand	NN	B-keyword
+
+what	WP	O
+is	VBZ	O
+the	DT	O
+GST	NN	B-keyword
+no	DT	O
+in	IN	O
+Rajasthan	NN	B-keyword
+
+what	WP	O
+is	VBZ	O
+the	DT	O
+GST	NN	B-keyword
+no	DT	O
+in	IN	O
+Punjab	NN	B-keyword
+
+what	WP	O
+is	VBZ	O
+the	DT	O
+GST	NN	B-keyword
+no	DT	O
+in	IN	O
+Haryana	NNP	B-keyword
+
+what	WP	O
+is	VBZ	O
+the	DT	O
+GST	NN	B-keyword
+no	DT	O
+in	IN	O
+Himachal	NN	B-keyword
+Pradesh	NN	I-keyword
+
+what	WP	O
+is	VBZ	O
+the	DT	O
+GST	NN	B-keyword
+no	DT	O
+in	IN	O
+Madhya	NN	B-keyword
+Pradesh	NN	I-keyword
+
+what	WP	O
+is	VBZ	O
+the	DT	O
+GST	NN	B-keyword
+no	DT	O
+in	IN	O
+Jammu	NN	B-keyword
+&	CC	I-keyword
+Kashmir	NNP	I-keyword
+
+what	WP	O
+is	VBZ	O
+the	DT	O
+GST	NN	B-keyword
+no	DT	O
+in	IN	O
+Puducherry	NN	B-keyword
+
+what	WP	O
+is	VBZ	O
+the	DT	O
+GST	NN	B-keyword
+no	DT	O
+in	IN	O
+West	NNP	B-keyword
+Bengal	NNP	I-keyword
+
+what	WP	O
+is	VBZ	O
+the	DT	O
+GST	NN	B-keyword
+no	DT	O
+in	IN	O
+Bihar	NN	B-keyword
+
+what	WP	O
+is	VBZ	O
+the	DT	O
+GST	NN	B-keyword
+no	DT	O
+in	IN	O
+Jharkhand	NN	B-keyword
+
+what	WP	O
+is	VBZ	O
+the	DT	O
+GST	NN	B-keyword
+no	DT	O
+in	IN	O
+Assam	NN	B-keyword
+
+what	WP	O
+is	VBZ	O
+the	DT	O
+GST	NN	B-keyword
+no	DT	O
+in	IN	O
+Odisha	NN	B-keyword
+
+can	MD	O
+you	PRP	O
+tell	NN	O
+me	PRP	O
+GST	NN	B-keyword
+in	IN	O
+Gujarat	NNP	B-keyword
+
+can	MD	O
+you	PRP	O
+tell	NN	O
+me	PRP	O
+GST	NN	B-keyword
+in	IN	O
+Maharashtra	NNP	B-keyword
+
+can	MD	O
+you	PRP	O
+tell	NN	O
+me	PRP	O
+GST	NN	B-keyword
+in	IN	O
+Chattisgarh	NN	B-keyword
+
+can	MD	O
+you	PRP	O
+tell	NN	O
+me	PRP	O
+GST	NN	B-keyword
+in	IN	O
+Uttar	NN	B-keyword
+Pradesh	NN	I-keyword
+
+can	MD	O
+you	PRP	O
+tell	NN	O
+me	PRP	O
+GST	NN	B-keyword
+in	IN	O
+Delhi	NN	B-keyword
+

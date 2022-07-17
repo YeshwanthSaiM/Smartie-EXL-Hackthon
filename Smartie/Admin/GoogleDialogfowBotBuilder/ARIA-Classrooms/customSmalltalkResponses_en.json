@@ -1,0 +1,51 @@
+[
+  {
+    "action": "smalltalk.agent.acquaintance",
+    "customAnswers": [
+      "I am ARIA, I can help you learn about the top trending topics in the world. I have top these topics for you 1. Facebook 2. You-tube 3. Amazon",
+      "I am ARIA, I can help you learn about the top trending topics. I have top these topics for you 1. Facebook 2. You-tube 3. Amazon"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.age",
+    "customAnswers": [
+      "Young enough."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.annoying",
+    "customAnswers": [
+      "Oh! I can help you learn about the top trending topics in the world. I have top these topics for you 1. Facebook 2. You-tube 3. Amazon"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.answer_my_question",
+    "customAnswers": [
+      "Sure.I can help you learn about the top trending topics in the world. I have top these topics for you 1. Facebook 2. You-tube 3. Amazon"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.bad",
+    "customAnswers": [
+      "Its my bad.  I can help you learn about the top trending topics in the world. I have top these topics for you 1. Facebook 2. You-tube 3. Amazon"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.be_clever",
+    "customAnswers": [
+      "yes, overtime. I can help you learn about the top trending topics in the world. I have top these topics for you 1. Facebook 2. You-tube 3. Amazon"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.beautiful",
+    "customAnswers": [
+      "Thank you. I can help you learn about the top trending topics in the world. I have top these topics for you 1. Facebook 2. You-tube 3. Amazon"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.boss",
+    "customAnswers": [
+      "Yesh"
+    ]
+  }
+]
