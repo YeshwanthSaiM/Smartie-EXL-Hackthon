@@ -1,1 +1,1 @@
-# Smartie---EXL-Hackthon
+# Smartie
