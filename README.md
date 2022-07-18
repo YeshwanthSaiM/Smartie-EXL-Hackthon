@@ -47,8 +47,22 @@ A recommendation engine is built and continously update for recommending best pr
     Capable of recommending best products to user
     Easily configure so the our model can recommend and learn about new products
     With out Low Shot learning our ML models works efficiently with low data. 
+    
+## AI Bot architecture
+![image](https://user-images.githubusercontent.com/36561348/179430740-7905095b-8b1f-4eec-b089-c948fb4d1ea9.png)
 
+UseCases:
+	ARIA Classrooms
+	Swiggy Bot
+Users:
+	Students
+	Employees
+	Internet Users
+	Metaverse
+	
+Scale at ease with 119 different languages. 
 
 For Kore bot demo:
 https://www.youtube.com/watch?v=8R6B__42bG0
-url: https//smartie-bot.web.app
+
+url: https://aria-classrooms.firebaseapp.com/
