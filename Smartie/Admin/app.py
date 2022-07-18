@@ -21,14 +21,23 @@ This script gives all required APIs that helps Smartie Admin do
 # libraries
 from './UniveralBotDefinition/conversion.py' import conversion 
 
-
-
 # Universal bot definition
 uni_path = 'UniveralBotDefinition/Universal Bot Definition.json'
-with open(uni_path,'r') as f:
+
+def convert(uni_path, botType):
+    with open(uni_path,'r') as f:
     uni = f.read()
 
-DialogFlowBot = conversion.convertToDF(uni)
+    if botType == 'dialogflow':
+        # DialogFlow
+        DialogFlowBot = conversion.convertToDF(uni)
+        return DialogFlowBot
+    elif botType == 'lex':
+        # AWS Lex
+        lexBot = conversion.convertToLex(uni)
+        return lexBot
+    return False
+    
 
-lexBot = conversion.convertToLex(uni)
+
 

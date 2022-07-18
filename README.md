@@ -1,7 +1,8 @@
 # Smartie
 ## A Complete solution of Intelligent Bot
 
-For Demo : https://www.youtube.com/watch?v=8R6B__42bG0
+For Demo : https://youtu.be/k7cCSpGqhJI
+
 
 Probelm Statement Identified as To Design and Develop a BOT that takes minimum information and instructions to recommend products to a user. The BOT can be configured by carrying out simple tasks such as uploading a set of questions and answers at a specific URL, which could be an API from the BOT admin. The BOT analyzes the data, makes third-party API calls, and makes product recommendations to the user. Further, the BOT analyses user response and starts recommending other products, like upselling and cross-selling.
 
@@ -40,4 +41,6 @@ A recommendation engine is built and continously update for recommending best pr
 A reinforcement learning based algorithm is built that constantly updates the model with progress of
 user interaction.
 
+For Kore bot demo:
+https://www.youtube.com/watch?v=8R6B__42bG0
 url: https//smartie-bot.web.app
